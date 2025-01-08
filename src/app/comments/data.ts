@@ -15,8 +15,4 @@ export const comments = [
   id: 4,
   text: 'This is fourth comment',
  },
- {
-  id: 5,
-  text: 'This is fifth comment',
- },
 ];
